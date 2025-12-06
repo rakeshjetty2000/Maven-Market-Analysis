@@ -35,15 +35,15 @@ This Power BI report contains multiple interactive pages, including:
 
 **Key Highlights**
 
-- Current Month Transactions: 18,325 (+5.69% YoY Goal)
+<ul>
+  <li>This page serves as the executive summary of Maven Market’s performance.</li>
+  <li>Current Month Transactions: 18,325 (+5.69% YoY Goal)</li>
+  <li>Current Month Profit: $71,682 (+5.61% Goal)</li>
+  <li>Current Month Returns: 496 (-2.9% from Goal)</li>
+  <li>Clear growth in revenue & profitability</li>
+  <li>Return rate remains low (~0.99%)</li>
+</ul>
 
-- Current Month Profit: $71,682 (+5.61% Goal)
-
-- Current Month Returns: 496 (-2.9% from Goal)
-
-- Clear growth in revenue & profitability
-
-- Return rate remains low (~0.99%)
 
 
 **🟢 2. Product Performance Report**
