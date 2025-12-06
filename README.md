@@ -86,8 +86,8 @@ This improves report usability and allows users to quickly jump to the underlyin
 
   <li>
     <strong>📌 Customer preferences differ by country</strong><br>
-    🇺🇸 USA: Customers prefer Supermarkets over Deluxe Supermarkets<br>
-    🇲🇽 Mexico: Deluxe Supermarkets attract more customers
+    USA: Customers prefer Supermarkets over Deluxe Supermarkets<br>
+    Mexico: Deluxe Supermarkets attract more customers
   </li>
 
   <li>
