@@ -39,12 +39,18 @@ The goal of this dashboard is to help stakeholders track KPIs, identify trends, 
 </ul>
 
 ### 🟢 2. Product Performance Report
+
+![Dashboard Preview](https://github.com/rakeshjetty2000/Maven-Market-Analysis/blob/main/Maven%20Market-%20Products.png)
+
 <ul>
   <li>Deep dive into individual product-level metrics</li>
   <li>Identifies best-selling & low-performing products</li>
 </ul>
 
 ### 🟢 3. Store Performance Report
+
+![Dashboard Preview](https://github.com/rakeshjetty2000/Maven-Market-Analysis/blob/main/Maven%20Market-%20Store%20.png)
+
 <ul>
   <li>Analyzes performance across stores in USA, Canada, and Mexico</li>
   <li>Identifies top-performing stores and supports expansion decisions</li>
@@ -52,6 +58,8 @@ The goal of this dashboard is to help stakeholders track KPIs, identify trends, 
  </ul>
 
 ## 🔍 4. Insights Page (Interactive Summary)
+
+![Dashboard Preview](https://github.com/rakeshjetty2000/Maven-Market-Analysis/blob/main/Maven%20Market-%20Insights%20.png)
 
 <p>
 This page provides a high-level summary of the most important insights discovered across the entire Power BI report.
