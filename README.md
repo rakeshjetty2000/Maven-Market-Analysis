@@ -26,6 +26,7 @@ The goal of this dashboard is to help stakeholders track KPIs, identify trends, 
 
 ### 🟢 1. Sales Overview Report
 <p>This page serves as the executive summary of Maven Market’s performance.</p>
+![Dashboard Preview](https://github.com/rakeshjetty2000/Maven-Market-Analysis/blob/main/Sales%20Overview%20Report%20.png)
 
 <strong>Key Highlights</strong>
 <ul>
