@@ -105,3 +105,16 @@ This improves report usability and allows users to quickly jump to the underlyin
     With ~50% fewer customers, Deluxe Supermarkets generate similar transactions, similar quantity sold, and ~90% of Supermarket profit.
   </li>
 </ul>
+
+## 🧭 Interactive Navigation
+
+<p>
+Every insight card is clickable and takes users directly to the corresponding dashboard page, improving usability
+and ensuring insights are traceable and verifiable.
+</p>
+
+<ul>
+  <li><strong>Product-related insights</strong> → Product Report Page</li>
+  <li><strong>Store-related insights</strong> → Store Performance Page</li>
+  <li><strong>Sales-related insights</strong> → Sales Overview Page</li>
+</ul>
